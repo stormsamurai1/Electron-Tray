@@ -1,0 +1,35 @@
+{
+  "name": "Electron-Tray",
+  "description": "Primeiro app em electron usando Code Challenge Rocketseat, icone coletado em https://www.flaticon.com/free-icon/code_93616",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/stormsamurai1/Electron-Tray.git",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "author": "stormsamurai1 <stormsamurai1@yahoo.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "cross-spawn": "^7.0.1",
+    "electron-store": "^5.1.0",
+    "fix-path": "^2.1.0"
+  },
+  "devDependencies": {
+    "electron": "^7.1.9",
+    "electron-builder": "^22.2.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.0"
+  },
+  "build": {
+    "linux": {
+      "category": "utility",
+      "target": [
+        "deb"
+      ]
+    }
+  }
+}
