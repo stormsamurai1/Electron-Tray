@@ -5,8 +5,9 @@ Este projeto foi feito utilizando o Code Challenge da RocketSeat(https://www.you
 
 Icones utilizados foram obtidos de sites gratuitos (http://www.iconarchive.com/show/dynamic-yosemite-icons-by-ccard3dev/Icon-Composer-icon.html)
 
+## Exemplo
+<img src="/githubImages/exemplo.jpeg" alt="Icone clicavel na barra de navegação do OS com os seus projetos favoritos, ao clicar, abre uma aba sobre 'Abrir no VSCode' ou 'Remover'">
 
-![Exemplo](./githubImages/exemplo.jpg)
 
 ## Requisitos
 
