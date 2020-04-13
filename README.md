@@ -5,3 +5,11 @@ Este projeto foi feito utilizando o Code Challenge da RocketSeat(https://www.you
 
 Icones utilizados foram obtidos de sites gratuitos (http://www.iconarchive.com/show/dynamic-yosemite-icons-by-ccard3dev/Icon-Composer-icon.html)
 
+##Requisitos
+
+[x] Deixar o ícone na barra de navegação
+[X] Implementar opção de adicionar NOVO PROJETO
+[X] Implementar opção de abrir no VSCode
+[X] Implementar opção de remover dos favoritos
+[X] Implementar persistência dos dados (manter mesmo com reboot)
+[] Iniciar automaticamente com o boot
