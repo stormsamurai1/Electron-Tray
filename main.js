@@ -13,7 +13,7 @@ const { app ,Menu, Tray, dialog} = require('electron')
 
 const nedb = require('nedb')
 const dataBase = new nedb({
-    filename: "data/database.js",
+    filename: resolve(__dirname,'..','..','data','database.js'),
     autoload: true
 })
 

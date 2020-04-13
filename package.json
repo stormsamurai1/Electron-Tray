@@ -25,6 +25,9 @@
     "eslint-plugin-import": "^2.20.0"
   },
   "build": {
+    "extraFiles": [
+      "data/database.js"
+    ],
     "win": {
       "target": "NSIS",
       "icon": "build/icon.ico"
