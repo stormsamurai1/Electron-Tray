@@ -7,9 +7,9 @@ Icones utilizados foram obtidos de sites gratuitos (http://www.iconarchive.com/s
 
 ##Requisitos
 
-[x] Deixar o ícone na barra de navegação
-[X] Implementar opção de adicionar NOVO PROJETO
-[X] Implementar opção de abrir no VSCode
-[X] Implementar opção de remover dos favoritos
-[X] Implementar persistência dos dados (manter mesmo com reboot)
-[] Iniciar automaticamente com o boot
+- [x] Deixar o ícone na barra de navegação
+- [x] Implementar opção de adicionar NOVO PROJETO
+- [x] Implementar opção de abrir no VSCode
+- [x] Implementar opção de remover dos favoritos
+- [x] Implementar persistência dos dados (manter mesmo com reboot)
+- [ ] Iniciar automaticamente com o boot
