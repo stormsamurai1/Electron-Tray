@@ -25,6 +25,10 @@
     "eslint-plugin-import": "^2.20.0"
   },
   "build": {
+    "win": {
+      "target": "NSIS",
+      "icon": "build/icon.ico"
+    },
     "linux": {
       "category": "utility",
       "target": [
