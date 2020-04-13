@@ -5,6 +5,9 @@ Este projeto foi feito utilizando o Code Challenge da RocketSeat(https://www.you
 
 Icones utilizados foram obtidos de sites gratuitos (http://www.iconarchive.com/show/dynamic-yosemite-icons-by-ccard3dev/Icon-Composer-icon.html)
 
+
+![Exemplo](./githubImages/exemplo.jpg)
+
 ## Requisitos
 
 - [x] Deixar o ícone na barra de navegação
